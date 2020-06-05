@@ -1,11 +1,4 @@
 
 node_modules
 package.json
-.idea
-.vscode
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
-node_modules
+
